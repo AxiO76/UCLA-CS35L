@@ -1,0 +1,37 @@
+GitHub: AxiO76
+Pass:(31dec761)
+ls: list all files take no parameter
+cd: go to folder take parameter
+
+cd .. : go back to previous directory 
+C-x C-c to return to dmd
+
+1st search : sublime + enter
+2nd search : dmd then type bash 
+3rd : ls 
+4th : cd if there is file, if not ls
+5th : type emacs to enter emacs
+https://github.com/TrinaKat/CS35L/blob/master/Assignment1_UnixEmacs/key1.txt
+http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cp.html
+http://web.cs.ucla.edu/classes/winter18/cs35L/assign/assign1.html
+
+ go into the right folder Lam ( /mnt/c/Users/eric/desktop/Lam ) 
+ 1. emacs exer1.html
+ 2. C-s HTML 
+ 3. C-s Sca (scavanger) then Alt-b (M) to move to the first letter of the word.
+ 4. C-s Self then M-b 
+ 5. C-s Ar then M-b
+ 6. C-e to move to the end of the current line 
+ 7. C-a to move to the beginning of the current line 
+ 8. summary : C-s: Locate word; C-a: move forward; C-e: move backward; M-b move cursor in front of word; M-f move cursor to last word.
+
+ Exercise 1.2
+ 1. 
+<!--
+ dadadad
+ dadada
+-->
+
+
+
+
